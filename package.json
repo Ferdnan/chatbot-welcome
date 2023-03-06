@@ -1,0 +1,26 @@
+{
+  "name": "static-welcome-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferdnan/static-welcome-chatbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ferdnan/static-welcome-chatbot/issues"
+  },
+  "homepage": "https://github.com/Ferdnan/static-welcome-chatbot#readme",
+  "dependencies": {
+    "venom-bot": "^4.3.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
